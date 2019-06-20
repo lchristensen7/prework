@@ -2,9 +2,9 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>I Completed the Prework </title>
+		<title> I completed prework</title>
 	</head>
 	<body>
-		<p>I completed the prework!</p>
+		<p>I completed prework! </p>
 	</body>
 </html>
